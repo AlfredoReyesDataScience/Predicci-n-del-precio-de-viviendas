@@ -1,10 +1,10 @@
-##Dataset
+## Dataset
 
 California Housing Dataset o Ames Housing
 
 Variables: número de habitaciones, metros cuadrados, antigüedad, ubicación, etc.
 
-##Qué se analizó
+## Qué se analizó
 
 Relación entre características y el precio
 
@@ -12,7 +12,7 @@ Correlaciones entre variables
 
 Distribución de precios y outliers
 
-##Técnicas utilizadas
+## Técnicas utilizadas
 
 Limpieza de datos (valores nulos, outliers)
 
@@ -22,7 +22,7 @@ Regresión Lineal y Regresión Ridge
 
 Normalización de variables
 
- ##Resultados principales
+ ## Resultados principales
 
 Variables como tamaño y ubicación fueron las más influyentes
 
